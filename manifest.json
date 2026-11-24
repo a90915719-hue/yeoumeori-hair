@@ -1,0 +1,39 @@
+{
+  "id": "./",
+  "name": "천안 성정동 여우머리 헤어샵 · 30년 가위손",
+  "short_name": "여우머리",
+  "description": "남성 일반 멋진 커트 8,000원 · 중년 볼륨파마 명가 · AI 헤어 매니저 안내 및 원장 직통 예약",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#120e0c",
+  "theme_color": "#120e0c",
+  "lang": "ko",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
